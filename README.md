@@ -2,6 +2,8 @@
 
 面向服饰商家的 AI 图片 / 视频生成工具 —— **LUI 对话式布局**的高保真交互原型。
 
+**🔗 在线体验:<https://yihuandeps.github.io/yijing-ai-studio/>**
+
 ## 使用方式
 
 双击打开 `index.html` 即可在浏览器中预览（零依赖、零构建，需联网加载字体与示例图片）。
